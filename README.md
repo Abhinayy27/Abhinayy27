@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 Artificial Intelligence and Machine Learning Student
 ----------------------------------------------------
@@ -93,6 +93,6 @@ I am a driven and passionate Computer Science Engineering student at the Indian 
 <div align = "center">
     
 ![snake gif](https://github.com/Abhinayy27/Abhinayy27/blob/output/github-snake-dark.svg)
-
+</div>
 
 -->
