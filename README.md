@@ -90,10 +90,9 @@ I am a driven and passionate Computer Science Engineering student at the Indian 
 <br/>
 <hr/>
 
-<div align="center">
+<div align = "center">
     
-![snake gif](https://github.com/Abhinayy27/Abhinayy27/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/keshav-077/keshav-077/blob/output/github-snake-dark.svg)
 
 </div>
-
 
