@@ -3,7 +3,9 @@
 Artificial Intelligence and Machine Learning Student
 ----------------------------------------------------
 
-I am a driven and passionate Computer Science Engineering student at the Indian Institute of Information Technology Nagpur. With a strong background in machine learning, deep learning, Artificial Intelligence, computer vision, and NLP, I’ve sharpened my expertise through academic coursework and hands-on projects. Skilled in Python, R, and SQL, I have extensive experience with frameworks like TensorFlow, PyTorch, and Keras, which I’ve used to develop innovative solutions. My work includes building AI-powered systems for AI-Driven-Border-Security-and-Strategic-Management-System, crop disease detection, sign language recognition Language translation, and Summarization, demonstrating my ability to tackle real-world problems effectively.
+I am a Computer Science Engineering student at IIIT Nagpur with a strong background in Machine Learning, Deep Learning, Computer Vision, and NLP. My expertise spans TensorFlow, PyTorch, Keras, and Hugging Face Transformers, which I have applied to real-world projects in text-to-image generation, industrial process optimization, web scraping, and AI automation.
+
+Currently, I am exploring Generative AI and building AI agents to automate workflows and enhance decision-making. My technical skills include Python, SQL, React.js, FastAPI, and MySQL, and I’m passionate about integrating AI-driven solutions into scalable applications.
 
 * 🌍  I'm based in Visakhapatnam
 * ✉  You can contact me at [abhinaybandaru27@gmail.com](mailto:abhinaybandaru27@gmail.com)
