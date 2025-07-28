@@ -10,7 +10,7 @@ Currently, I am exploring Generative AI and building AI agents to automate workf
 * 🌍  I'm based in Visakhapatnam
 * ✉  You can contact me at [abhinaybandaru27@gmail.com](mailto:abhinaybandaru27@gmail.com)
 * 🧠  I'm learning Generative AI
-* 📄 Know about my experiences [https://drive.google.com/file/d/1dOQVkQ956q1urdzLYmGYJqklw5EukNWW/view?usp=sharing]
+* 📄 Know about my experiences [https://drive.google.com/file/d/1ENIlJQfbGr4E-WI6JGIOr6taMZSiRsBg/view?usp=sharing]
 
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
