@@ -90,22 +90,22 @@ Currently, I am exploring Generative AI and building AI agents to automate workf
 <p align="center"> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abhinay-bandaru-955bb4264/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://abhinay-portfolio.lovable.app/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" width="32" height="32" alt="Portfolio" />
+  <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 
   <!-- Medium -->
   <a href="https://medium.com/@abhinaybandaru27" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="32" height="32" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 
   <!-- Email -->
   <a href="mailto:abhinaybandaru27@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
