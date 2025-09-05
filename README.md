@@ -97,7 +97,7 @@ Currently, I am exploring Generative AI and building AI agents to automate workf
     </picture> 
   </a> 
 
- <!-- Email -->
+<!-- Email (using "gmail" icon which exists in this repo) -->
   <a href="mailto:abhinaybandaru27@gmail.com" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" /> 
@@ -106,12 +106,12 @@ Currently, I am exploring Generative AI and building AI agents to automate workf
     </picture> 
   </a> 
 
-  <!-- Portfolio -->
+  <!-- Portfolio (using "website" icon instead of globe) -->
   <a href="https://abhinay-portfolio.lovable.app/" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" /> 
     </picture> 
   </a> 
 
@@ -124,11 +124,12 @@ Currently, I am exploring Generative AI and building AI agents to automate workf
     </picture> 
   </a> 
 
- 
+  
 </p>
 
 <br/>
 <hr/>
+
 
 
 <div align = "center">
