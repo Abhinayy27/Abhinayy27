@@ -89,46 +89,29 @@ Currently, I am exploring Generative AI and building AI agents to automate workf
 
 <p align="center"> 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abhinay-bandaru-955bb4264/" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
+  <a href="https://www.linkedin.com/in/abhinay-bandaru-955bb4264/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
 
-<!-- Email (using "gmail" icon which exists in this repo) -->
-  <a href="mailto:abhinaybandaru27@gmail.com" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-
-  <!-- Portfolio (using "website" icon instead of globe) -->
-  <a href="https://abhinay-portfolio.lovable.app/" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
+  <!-- Portfolio -->
+  <a href="https://abhinay-portfolio.lovable.app/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" width="32" height="32" alt="Portfolio" />
+  </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/@abhinaybandaru27" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
+  <a href="https://medium.com/@abhinaybandaru27" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="32" height="32" alt="Medium" />
+  </a>
 
-  
+  <!-- Email -->
+  <a href="mailto:abhinaybandaru27@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32" alt="Email" />
+  </a>
 </p>
 
 <br/>
 <hr/>
+
 
 
 
