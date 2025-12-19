@@ -3,7 +3,7 @@
 Artificial Intelligence and Machine Learning Student
 ----------------------------------------------------
 
-I am a Computer Science Engineering student at IIIT Nagpur with a strong background in Machine Learning, Deep Learning, Computer Vision, and NLP. My expertise spans TensorFlow, PyTorch, Keras, and Hugging Face Transformers, which I have applied to real-world projects in text-to-image generation, industrial process optimization, web scraping, and AI automation.
+I am a Computer Science Engineering undergrad at IIIT Nagpur with a strong background in Gen-AI, ML, Deep Learning, Computer Vision, and NLP. My expertise spans TensorFlow, PyTorch, Keras, and Hugging Face Transformers, which I have applied to real-world projects in text-to-image generation, industrial process optimization, web scraping, and AI automation.
 
 Currently, I am exploring Generative AI and building AI agents to automate workflows and enhance decision-making. My technical skills include Python, SQL, React.js, FastAPI, and MySQL, and I’m passionate about integrating AI-driven solutions into scalable applications.
 
