@@ -94,7 +94,7 @@ Currently, I am exploring Generative AI and building AI agents to automate workf
   </a>
 
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
+  <a href="https://abhinay-portfolio.lovable.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 
