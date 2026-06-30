@@ -7,7 +7,7 @@ I am a Computer Science Engineering undergrad at IIIT Nagpur with a strong backg
 
 Currently, I am exploring Generative AI and building AI agents to automate workflows and enhance decision-making. My technical skills include Python, SQL, React.js, FastAPI, and MySQL, and I’m passionate about integrating AI-driven solutions into scalable applications.
 
-* 🌍  I'm based in Vizag
+* 🌍  I'm based in Hyderabad
 * ✉  You can contact me at [abhinaybandaru27@gmail.com](mailto:abhinaybandaru27@gmail.com)
 * 🧠  I'm learning Generative AI
 * 📄 Know about my experiences [https://drive.google.com/file/d/1ENIlJQfbGr4E-WI6JGIOr6taMZSiRsBg/view?usp=sharing]
